@@ -1,0 +1,20 @@
+{
+    "name": "knwoo0916/after",
+    "description": "none",
+    "authors": [
+        {
+            "name": "knwoo0916",
+            "email": "knwoo0916@naver.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "fabpot/goutte": "^3.2",
+        "jenssegers/blade": "^1.2"
+    },
+    "autoload": {
+        "psr-4":{
+            "Gondr\\":"Gondr/"
+        }
+    }
+}
